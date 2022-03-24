@@ -1,0 +1,13 @@
+.nav-link {
+  text-transform: uppercase;
+  letter-spacing: 1.3px;
+}
+
+.play-btn {
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
+ nav li:hover{
+   background-color: red;
+   color:white;
+ }
